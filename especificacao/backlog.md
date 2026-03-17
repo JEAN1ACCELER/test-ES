@@ -9,6 +9,5 @@
     - Item 1
     - Item 2
     _ Item 3
-
-    *e*
+ *e*
     
